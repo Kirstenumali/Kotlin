@@ -1,6 +1,6 @@
 # Kotlin
 
-// Timer
+Timer
 ``` bash
  val handler = Handler(Looper.getMainLooper())
     handler.postDelayed({
